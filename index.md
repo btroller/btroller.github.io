@@ -16,9 +16,27 @@ I intended OTP to be a demonstration of my understanding of C, which I gained fr
 
 OTP hasn't been thorougly tested as a secure method of communication, so I don't reccomend using it for anything serious. It uses `/dev/random` as a source of random values when generating pads, which is more random than C's `rand()` but still pseudorandom.
 
-To install OTP, clone the repository and run `make`. It uses only the C standard library, so you should be able to simply download it and compile.
+To install OTP, clone [the repository](https://github.com/btroller/One-Time-Pad) and run `make`. It uses only the C standard library, so you should be able to simply download it and compile. Documentation is available in the `Readme.md` included with 
 
 ## Relevant Classes Taken
+
+## Technologies Known
+
+Object-oriented programming
+iOS dvelopment in Swift
+
+### Languages
+
+* C
+* Swift
+* Java
+* Python
+
+### Tools
+
+* Git
+* Valgrind
+* 
 
 ## Relevant Class Projects
 
