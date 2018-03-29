@@ -24,7 +24,7 @@ To install OTP, clone [its repository](https://github.com/btroller/One-Time-Pad)
 
 ## More Impressive Class Projects
 
-### [Mobile App Development — Multipeer Voice Chat iOS App](https://github.com/btroller/Multipeer-Voice-Chat/blob/master/README.md)
+### [Mobile App Development — Multipeer Voice Chat iOS App](https://github.com/btroller/Multipeer-Voice-Chat)
 
 I developed a simple peer-to-peer voice chat app using Apple's `MultipeerConnectivity` and `AVFoundation` frameworks in Swift. Core functionality is present now, but I plan to make it more complete in the future.
 
