@@ -30,7 +30,7 @@ I plan to make a Mac app counterpart, as these framworks are cross-platform and 
 
 ## Systems Programming — Battleship Tournament AI
 
-In CPE 357, we were given an assignment for extra credit to develop a battleship player in C. Unfortunately, I can't give the source code for this project because I'll get in trouble if someone copies my work. However, I can say that I tied for first place in a tournament between Battleship players submitted in all of my professor's CPE 357 sections. I based my player heavily on the suggestions of Nick in [his post on the DataGenetics blog](http://www.datagenetics.com/blog/december32011/).
+In CPE 357, we were given an assignment for extra credit to develop a battleship player in C. Unfortunately, I can't give the source code for this project because I'll get in trouble if someone copies my work. However, I can say that I tied for first place in a tournament between Battleship players submitted in all of my professor's CPE 357 sections. I based my player heavily on the suggestions of Nick Berry in [his post on the DataGenetics blog](http://www.datagenetics.com/blog/december32011/).
 
 ## [Professional Responsibilities — Term Paper](https://github.com/btroller/CSC-300-Paper)
 
