@@ -1,6 +1,7 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 
 title: Benjamin Troller
 description: A personal summary and portfolio
 
+show_downloads: false
 google_analytics: UA-116577074-1
