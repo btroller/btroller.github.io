@@ -6,6 +6,8 @@ I generally enjoy making programs that run as efficiently as possible -- that fe
 
 I'm better at low-level development, so don't expect this site to look great. Instead, I suggest looking at my projects and classes taken.
 
+Github: [btroller]() LinkedIn: [btroller](https://www.linkedin.com/in/btroller/) Keybase: [invener](https://keybase.io/invener) Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
+
 # Personal Projects
 
 ## [OTP](https://github.com/btroller/One-Time-Pad)
