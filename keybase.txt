@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/invener
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://btroller.github.io
+  * I am invener (https://keybase.io/invener) on keybase.
+  * I have a public key ASCINYOO_mrF2QKp_KXONUHE1vsM25WmWMYN8FgfEYxXmwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208835838efe6ac5d902a9fca5ce3541c4d6fb0cdb95a658c60df0581f118c579b0a",
+      "host": "keybase.io",
+      "kid": "01208835838efe6ac5d902a9fca5ce3541c4d6fb0cdb95a658c60df0581f118c579b0a",
+      "uid": "bf1e2a07374880b0db1df16f6a950c19",
+      "username": "invener"
+    },
+    "merkle_root": {
+      "ctime": 1523217199,
+      "hash": "600b3c292d0c1e53f39236b30a489cf042206075fd2abe0e0eacf54eaab2ddd95fc7a9b216f66479865d65c703aea24d9964bdcf5a9c3f8093b12c2932bb7002",
+      "hash_meta": "9ec92f6478915e5b1a163a7be9b16a379d5ebe3ddd1b48cf510e578b839c6002",
+      "seqno": 2355713
+    },
+    "service": {
+      "hostname": "btroller.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1523217213,
+  "expire_in": 504576000,
+  "prev": "c8a522d67467e981bc8d0f2b91a262f1accd6468f4db61f4068538c4769778c8",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiDWDjv5qxdkCqfylzjVBxNb7DNuVpljGDfBYHxGMV5sKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODgzNTgzOGVmZTZhYzVkOTAyYTlmY2E1Y2UzNTQxYzRkNmZiMGNkYjk1YTY1OGM2MGRmMDU4MWYxMThjNTc5YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODgzNTgzOGVmZTZhYzVkOTAyYTlmY2E1Y2UzNTQxYzRkNmZiMGNkYjk1YTY1OGM2MGRmMDU4MWYxMThjNTc5YjBhIiwidWlkIjoiYmYxZTJhMDczNzQ4ODBiMGRiMWRmMTZmNmE5NTBjMTkiLCJ1c2VybmFtZSI6ImludmVuZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjMyMTcxOTksImhhc2giOiI2MDBiM2MyOTJkMGMxZTUzZjM5MjM2YjMwYTQ4OWNmMDQyMjA2MDc1ZmQyYWJlMGUwZWFjZjU0ZWFhYjJkZGQ5NWZjN2E5YjIxNmY2NjQ3OTg2NWQ2NWM3MDNhZWEyNGQ5OTY0YmRjZjVhOWMzZjgwOTNiMTJjMjkzMmJiNzAwMiIsImhhc2hfbWV0YSI6IjllYzkyZjY0Nzg5MTVlNWIxYTE2M2E3YmU5YjE2YTM3OWQ1ZWJlM2RkZDFiNDhjZjUxMGU1NzhiODM5YzYwMDIiLCJzZXFubyI6MjM1NTcxM30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJidHJvbGxlci5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMzIxNzIxMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJjOGE1MjJkNjc0NjdlOTgxYmM4ZDBmMmI5MWEyNjJmMWFjY2Q2NDY4ZjRkYjYxZjQwNjg1MzhjNDc2OTc3OGM4Iiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQDL46GYaNzoViNUrsoPKzdrTT5dlmFoSo9jgtjb5JQji7soWioOMMJ9bC4Bas1rHJ621E9fEaTYnFuwlFocY8AOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDtfcedeeVc1rlC4PcI1HRhiJQv6HbGv8Ic9aVrq7Tsk6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/invener
+
+==================================================================
