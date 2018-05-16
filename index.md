@@ -2,9 +2,7 @@
 
 I'm a third-year Computer Science major at Cal Poly, San Luis Obispo. With a little luck at registration time, I'll graduate in June of 2019.
 
-I generally enjoy making programs that run as efficiently as possible -- that feeling you get when finally finding a good solution is what I like most. I recognize that I'm bad at pretty much every part of the software development process, but so is everybody else coming directly out of school. I want to grow to one day be proud of my variable names and function prototypes, not look at them in shame.
-
-I'm better at low-level development, so don't expect this site to look great. Instead, I suggest looking at my projects and classes taken.
+I generally enjoy making programs that run as efficiently as possible -- that feeling you get when finding a good solution is what I like most about software engineering. I'm experienced with Windows, Mac (my favorite), and Linux environments. I can efficiently use Vim if needed, but I've recently taken a liking to Xcode for its helpful editing features.
 
 Github: [btroller]() LinkedIn: [btroller](https://www.linkedin.com/in/btroller/) Keybase: [invener](https://keybase.io/invener) Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
 
@@ -21,6 +19,12 @@ OTP hasn't been thorougly tested as a secure method of communication, so I don't
 To install OTP, clone [its repository](https://github.com/btroller/One-Time-Pad) and run `make`. It uses only the C standard library, so you should be able to simply download it and compile. Documentation is available in the `Readme.md` included in the repository.
 
 # Notable Class Projects
+
+## [Intro to Software Engineering — Super CSC FighterZ](https://github.com/TraceRainbolt/SuperCSCFighterZ) (under active development)
+
+A project I'm currently working on with a team of six others. We're making a game based on professors in the Cal Poly Computer Science Department.
+
+The game will support single player and local multiplayer modes with a selection of fighters.
 
 ## [Mobile App Development — Multipeer Voice Chat iOS App](https://github.com/btroller/Multipeer-Voice-Chat)
 
@@ -51,6 +55,12 @@ I wrote a thoroughly-sourced 4000-word paper on the ethics of Samsung's decision
 * CSC 102: Fundamentals of Computer Science II (Object-oriented programming in Java)
 * CSC 101: Fundamentals of Computer Science I (Python)
 
+### Currently Enrolled In
+
+* CSC 307: Introduction to Software Engineering (Agile development in Java with best practices)
+* CSC 453: Introduction to Operating Systems (primarily MINIX)
+* CSC 445: Theory of Computation
+
 # Technologies Known
 
 ## Languages
@@ -63,7 +73,8 @@ I wrote a thoroughly-sourced 4000-word paper on the ethics of Samsung's decision
 ## Tools
 
 * Git
+* SVN
 * Valgrind
-* LaTeX (yes, I know it's a language)
+* LaTeX (also a language, I know)
 * Vim
 * Xcode
