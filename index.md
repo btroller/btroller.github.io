@@ -13,7 +13,7 @@ LinkedIn: [btroller](https://www.linkedin.com/in/btroller)
 
 Keybase: [invener](https://keybase.io/invener) 
 
-Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
+Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu), [PGP Public Key](http://btroller.github.io/btroller_calpoly.edu%20–%20Public.asc)
 
 # Personal Projects
 
