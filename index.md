@@ -7,7 +7,13 @@ I'm experienced with Mac (my favorite), Windows, and Linux environments. I've us
 I've liked the systems-level programming I've done so far and am interested in security, but I also enjoy iOS app development and want to look into Mac app development.
 
 ### Links
-Github: [btroller](https://github.com/btroller) LinkedIn: [btroller](https://www.linkedin.com/in/btroller) Keybase: [invener](https://keybase.io/invener) Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
+Github: [btroller](https://github.com/btroller) 
+
+LinkedIn: [btroller](https://www.linkedin.com/in/btroller) 
+
+Keybase: [invener](https://keybase.io/invener) 
+
+Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
 
 # Personal Projects
 
