@@ -1,9 +1,12 @@
 # Personal Info
 
-I'm a third-year Computer Science major at Cal Poly, San Luis Obispo. With a little luck at registration time, I'll graduate in June of 2019.
+I'm a senior-year Computer Science major at Cal Poly, San Luis Obispo. I expect to graduate in June of 2019.
 
-I'm experienced with Windows, Mac (my favorite), and Linux environments. I can efficiently use Vim if needed, but I've recently taken a liking to Xcode for its helpful editing features. 
+I'm experienced with Mac (my favorite), Windows, and Linux environments. I've used a whole variety of tools and software, including Git, SVN, Valgrind, Vim, and Xcode, to namedrop a few.
 
+I've liked the systems-level programming I've done so far and am interested in security, but I also enjoy iOS app development and want to look into Mac app development.
+
+### Links
 Github: [btroller](https://github.com/btroller) LinkedIn: [btroller](https://www.linkedin.com/in/btroller) Keybase: [invener](https://keybase.io/invener) Email: [btroller@calpoly.edu](mailto:btroller@calpoly.edu)
 
 # Personal Projects
@@ -17,6 +20,12 @@ I intended OTP to be a demonstration of my understanding of C, which I gained fr
 OTP shouldn't be used for anything serious. It uses `/dev/random` as a source of random values when generating pads, which is more random than C's `rand()` but still pseudorandom. However, if you have a [source of truly random data](https://en.wikipedia.org/wiki/Hardware_random_number_generator) available to you, you can still use OTP to encrypt and decrypt data using that truly random data as a one-time pad.
 
 # Notable Class Projects
+
+## Senior Project — LC-3 Simulator for macOS
+
+This project is in its early stages, but I plan to write a native Mac version of an LC-3 simulator. I expect this to be useful to students at Cal Poly and other schools who are learning the LC-3 architecture while using Macs. In my experience, they typically resort to using the web-based simulator written by a former Cal Poly student. This works well enough, but I think I can improve the experience for students using Macs significantly.
+
+I expect to generally recreate the commonly-used Windows version of the simulator and go from there.
 
 ## [Intro to Software Engineering — Super CSC FighterZ](https://github.com/TraceRainbolt/SuperCSCFighterZ)
 
@@ -44,9 +53,9 @@ I wrote a thoroughly-sourced 4000-word paper on the ethics of Samsung's decision
 
 * CSC 307: Introduction to Software Engineering (Agile development in Java with best practices)
 * CSC 453: Introduction to Operating Systems (primarily MINIX)
-* CSC 445: Theory of Computation
+* CSC 445: Theory of Computation (theory of formal languages and automata)
 * CSC 357: Systems Programming (ANSI C and low-level UNIX/Linux development)
-* CSC 436: Mobile Application Development (iOS Development with Swift)
+* CSC 436: Mobile Application Development (iOS Development in Swift)
 * CSC 349: Design and Analysis of Algorithms
 * CSC 348: Discrete Structures (Logic, Proofs, and Structures)
 * CSC 315: Computer Architecture (MIPS Assembly and hardware design of CPUs)
@@ -61,6 +70,7 @@ I wrote a thoroughly-sourced 4000-word paper on the ethics of Samsung's decision
 * CSC 430: Programming Languages I
 * CSC 321: Introduction to Computer Security
 * CSC 365: Introduction to Database Systems
+* CSC 491: Senior Project I
 
 # Technologies Known
 
