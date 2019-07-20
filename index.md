@@ -23,7 +23,7 @@ OTP is a command line C program which pseudorandomly generates [one-time pads](h
 
 I intended OTP to be a demonstration of my understanding of C, which I gained from a Systems Programming class. This project is much less involved than some projects we tackled in there. I kept it simple because I wanted it to give a clear demonstration of my proficiency in basic C.
 
-OTP shouldn't be used for anything serious. It uses `/dev/random` as a source of random values when generating pads, which is more random than C's `rand()` but still pseudorandom. However, if you have a [source of truly random data](https://en.wikipedia.org/wiki/Hardware_random_number_generator) available to you, you can still use OTP to encrypt and decrypt data using that truly random data as a one-time pad.
+OTP shouldn't be used for anything serious. It uses `getentropy()` as a source of random values when generating pads, which is more random than C's `rand()` but still pseudorandom. However, if you have a [source of truly random data](https://en.wikipedia.org/wiki/Hardware_random_number_generator) available to you, you can still use OTP to encrypt and decrypt data using that truly random data as a one-time pad.
 
 # Notable Class Projects
 
